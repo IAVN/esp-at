@@ -9,7 +9,7 @@
 
 #include "esp_at.h"
 #include "esp_at_init.h"
-//commit
+
 void app_main(void)
 {
     esp_at_main_preprocess();
